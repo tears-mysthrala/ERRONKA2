@@ -1,0 +1,10 @@
+
+body {
+  background-color: #f5f7fb;
+}
+h1, h2, h3 {
+  margin-bottom: 1rem;
+}
+.table-actions a {
+  margin-right: 0.5rem;
+}
